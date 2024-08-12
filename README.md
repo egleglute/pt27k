@@ -1,3 +1,3 @@
 Hi there!
-In folder #X - O game you can find code for X - O game.
+In folder attempts you can find code for X - O game.
 Enjoy!
